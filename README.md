@@ -10,7 +10,7 @@ The simulated campus uses a Cisco 2911 edge router (**R-EDGE**), a central ASA f
 
 **Departments:** ADMIN, CSE, EEE, MECH, CIVIL, BIOMED, and LAB. The server segment provides DHCP, DNS, and RADIUS services.
 
-> Add a screenshot of the actual Packet Tracer topology here when available.
+
 
 ## VLANs and IP addressing
 
